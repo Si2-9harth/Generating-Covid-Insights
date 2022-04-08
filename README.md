@@ -4,3 +4,5 @@
  
  ## Visualization ->
  ![image](https://user-images.githubusercontent.com/98142436/162383914-de0c9774-87f3-4458-9f0d-cb084ded1fb5.png)
+ 
+ Link to Tableau Public: https://public.tableau.com/app/profile/siddharth.singh3810/viz/CovidDashboardTillFeb2022/Dashboard1
